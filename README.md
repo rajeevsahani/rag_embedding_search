@@ -173,7 +173,7 @@ Perfect for production-grade AI retrieval systems.
 
 # 👨‍💻 Author
 
-Deepanshu Sahani
+Rajeev Sahani
 
 GitHub:  
 https://github.com/rajeevsahani
